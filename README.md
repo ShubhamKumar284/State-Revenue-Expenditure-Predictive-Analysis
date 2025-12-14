@@ -3,6 +3,7 @@ Predictive analysis of state-wise revenue expenditure using machine learning tec
 
 
 🎯 Project Objectives
+
 ****Objective 1:** Revenue Expenditure Prediction (Regression)**
 
 To predict state-wise revenue expenditure using supervised learning regression techniques based on historical Indian government budget data.
